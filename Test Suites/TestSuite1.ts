@@ -13,11 +13,17 @@
    <testCaseLink>
       <guid>e4ccade7-e5b7-486b-9020-f1da59ceb763</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Test 1 by Tom</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>aabb0fa8-3cee-4e8d-966f-d0224a1df34b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Test 2 by Kim</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>948bcf5c-5420-4cba-b16d-828fa5ff3406</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Test 2 by Kim</testCaseId>
